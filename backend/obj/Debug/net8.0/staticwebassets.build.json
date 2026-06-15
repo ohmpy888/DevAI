@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y3nS/q25iPQqTLmXfvFUV+Xit7MNZguZSw7HZDjgx7o=",
+  "Source": "ImageClassifierBackend",
+  "BasePath": "_content/ImageClassifierBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

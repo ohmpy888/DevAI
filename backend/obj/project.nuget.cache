@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3+jW3x8F6Co=",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Dev\\backend\\ImageClassifierBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.18.0\\microsoft.ml.onnxruntime.1.18.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.18.0\\microsoft.ml.onnxruntime.managed.1.18.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\sixlabors.imagesharp\\3.1.4\\sixlabors.imagesharp.3.1.4.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
