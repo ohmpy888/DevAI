@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\Dev\\backend\\ImageClassifierBackend.csproj": {}
+    "D:\\Project\\DevAI\\backend\\ImageClassifierBackend.csproj": {}
   },
   "projects": {
-    "D:\\Project\\Dev\\backend\\ImageClassifierBackend.csproj": {
+    "D:\\Project\\DevAI\\backend\\ImageClassifierBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\Dev\\backend\\ImageClassifierBackend.csproj",
+        "projectUniqueName": "D:\\Project\\DevAI\\backend\\ImageClassifierBackend.csproj",
         "projectName": "ImageClassifierBackend",
-        "projectPath": "D:\\Project\\Dev\\backend\\ImageClassifierBackend.csproj",
+        "projectPath": "D:\\Project\\DevAI\\backend\\ImageClassifierBackend.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\Dev\\backend\\obj\\",
+        "outputPath": "D:\\Project\\DevAI\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "D:\\Project\\Dev\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "D:\\Project\\DevAI\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

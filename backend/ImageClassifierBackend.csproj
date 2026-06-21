@@ -11,4 +11,10 @@
     <PackageReference Include="SixLabors.ImageSharp" Version="3.1.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Models\*.onnx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>

@@ -506,7 +506,9 @@
 
     initShaderBackground();
 
-    const API_URL = "http://localhost:5100/api/classify";
+    const API_URL = (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1")
+      ? "http://localhost:5100/api/classify"
+      : "/api/classify";
 
     const dropzone = document.getElementById("dropzone");
     const fileInput = document.getElementById("file-input");
